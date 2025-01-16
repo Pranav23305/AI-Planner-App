@@ -1,50 +1,74 @@
-# Welcome to your Expo app 👋
+# AI Travel Planner App
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+## Overview
+The AI Travel Planner App is a comprehensive travel planning solution built with React Native. It leverages artificial intelligence to provide personalized travel itineraries, recommendations, and seamless booking options, enhancing the overall travel experience.
 
-## Get started
+## Key Features
 
-1. Install dependencies
+### Personalized Itineraries
+- AI-generated travel plans based on user preferences, travel history, and interests.
+- Customizable itineraries by inputting travel dates, destinations, and interests.
 
+### Smart Recommendations
+- Real-time AI-driven suggestions for hotels, restaurants, attractions, and activities.
+- Updates based on weather, local events, and crowd levels.
+
+### Booking Integration
+- In-app booking for flights, hotels, and activities with secure payment options.
+- Access to competitive rates and offers through partnerships with travel service providers.
+
+### Interactive Map
+- Displays recommended places, routes, and nearby attractions.
+- Offline map functionality for areas with limited internet connectivity.
+
+### Travel Assistant Chatbot
+- AI-powered chatbot offering instant travel advice, updates, and support.
+- Provides information on travel documents, visa requirements, and local customs.
+
+### Expense Management
+- Integrated expense tracker for managing travel budgets.
+- Real-time expense tracking and detailed reports.
+
+### Multi-language Support
+- Supports multiple languages to cater to a global user base.
+- AI-driven translation for seamless communication in foreign destinations.
+
+### User Reviews and Ratings
+- Access to user-generated reviews and ratings for hotels, restaurants, and attractions.
+- AI algorithms prioritize relevant reviews based on user preferences.
+
+### Social Sharing
+- Share travel plans, itineraries, and experiences on social media.
+- Collaborate on trip planning by sharing itineraries with friends.
+
+## Technologies Used
+- **React Native:** Cross-platform mobile app development for iOS and Android.
+- **AI and Machine Learning:** Personalized recommendations and itinerary generation.
+- **API Integration:** Connecting with various travel service providers.
+
+## Installation
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Pranav23305/AI-Planner-App.git
+   ```
+2. Navigate to the project directory:
+   ```bash
+   cd ai-travel-planner-app
+   ```
+3. Install dependencies:
    ```bash
    npm install
    ```
-
-2. Start the app
-
+4. Run the app:
    ```bash
-    npx expo start
+   npm start
    ```
 
-In the output, you'll find options to open the app in a
+## Contributing
+Contributions are welcome! Please fork the repository and submit a pull request for any enhancements or bug fixes.
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## License
+This project is licensed under the MIT License. See the `LICENSE` file for details.
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+## Contact
+For any inquiries or support, please contact [your-email@example.com](mailto:your-email@example.com).
